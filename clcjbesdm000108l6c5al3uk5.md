@@ -36,7 +36,7 @@ The optimum threshold for LCP would be:
     
 * 2.5s - 4s -&gt; Needs Improvement
     
-* \&gt; 4s -&gt; Poor
+* \&gt;4s -&gt; Poor
     
 
 ### FID
@@ -53,7 +53,7 @@ The optimum threshold for FID would be:
     
 * 100ms - 300ms -&gt; Needs Improvement
     
-* \&gt; 300ms -&gt; Poor
+* \&gt;300ms -&gt; Poor
     
 
 ### CLS
@@ -70,7 +70,7 @@ The optimum threshold for CLS would be:
     
 * 0.1 - 0.25 -&gt; Needs Improvement
     
-* \&gt; 0.25 -&gt; Poor
+* \&gt;0.25 -&gt; Poor
     
 
 ## How to measure Core Web Vital Metrics?
