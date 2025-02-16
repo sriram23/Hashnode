@@ -130,3 +130,5 @@ Type coercion may lead to unexpected results, that will lead to bugs. Understand
     
 
 Thank you for reading! I appreciate your time and hope you found this post valuable. Please let me know your thoughts in the comments below!
+
+%%[cta-github-linkedin]
