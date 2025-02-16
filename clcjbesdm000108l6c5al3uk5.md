@@ -1,4 +1,12 @@
-# What are Core Web Vitals?
+---
+title: "What are Core Web Vitals?"
+datePublished: Thu Jan 05 2023 16:40:57 GMT+0000 (Coordinated Universal Time)
+cuid: clcjbesdm000108l6c5al3uk5
+slug: core-web-vitals
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/iFSvn82XfGo/upload/c163b194fba9bcffa15a61c0a17121aa.jpeg
+tags: web-development, seo, web-application, core-web-vitals, web-vitals
+
+---
 
 Web Vitals are the speed metrics used for measuring the user experience on web pages. **Core Web Vitals** are the subsets of the Web Vitals, which are focused on measuring the following aspects:
 
@@ -36,7 +44,7 @@ The optimum threshold for LCP would be:
     
 * 2.5s - 4s -&gt; Needs Improvement
     
-* \&gt;4s -&gt; Poor
+* &gt;4s -&gt; Poor
     
 
 ### FID
@@ -53,7 +61,7 @@ The optimum threshold for FID would be:
     
 * 100ms - 300ms -&gt; Needs Improvement
     
-* \&gt;300ms -&gt; Poor
+* &gt;300ms -&gt; Poor
     
 
 ### CLS
@@ -70,7 +78,7 @@ The optimum threshold for CLS would be:
     
 * 0.1 - 0.25 -&gt; Needs Improvement
     
-* \&gt;0.25 -&gt; Poor
+* &gt;0.25 -&gt; Poor
     
 
 ## How to measure Core Web Vital Metrics?
@@ -106,3 +114,5 @@ We can use the [Web Vital Chrome Extension](https://chrome.google.com/webstore/d
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672936718418/c7594e0b-f5d1-4fe2-bb99-ed34cba5e0a0.png align="center")
 
 That's all about the Core Web Vitals. Hope this is useful to you. Looking forward to your suggestions and feedback. Thank you!
+
+%%[cta-github-linkedin]
