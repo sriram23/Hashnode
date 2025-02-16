@@ -101,3 +101,5 @@ error("Something went wrong while calling the API")  // returns "[error] Somethi
 ```
 
 Thank you for reading! Appreciate your time and hope you found this post valuable. Give currying a try in your next JavaScript project and let me know how it improves your coding experience in the comments below!
+
+%%[cta-github-linkedin]
