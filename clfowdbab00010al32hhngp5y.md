@@ -96,3 +96,5 @@ In this example, we call the `addNumbers` function with two arguments (`5` and `
 Functions and callbacks are powerful tools in JavaScript that allow developers to create modular, reusable code and manage asynchronous operations. By understanding the basics of functions and callbacks, developers can create efficient and scalable code that can handle complex operations. In addition, understanding how callbacks work is essential for working with APIs, handling user input, and creating interactive web applications.
 
 That’s all about the functions and callbacks in JavaScript. I hope you found this useful. Thanks for reading!
+
+%%[cta-github-linkedin]
