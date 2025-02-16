@@ -1,4 +1,12 @@
-# Indentation With Tab Key In React
+---
+title: "Indentation With Tab Key In React"
+datePublished: Sat Dec 24 2022 15:41:55 GMT+0000 (Coordinated Universal Time)
+cuid: clc240nlq000108mhhyyk2mm9
+slug: indentation-with-tab-key-in-react
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/a9a4435a66ebf1da5e1daa49113667ad.jpeg
+tags: javascript, reactjs, events, indentation, textarea
+
+---
 
 Hello World!
 
@@ -177,3 +185,5 @@ Here is the implementation of the code:
 %[https://codesandbox.io/embed/tab-indentation-bgdlyb?fontsize=14&hidenavigation=1&theme=dark&view=preview] 
 
 Hope this is useful to you. Looking forward to your feedback and suggestions. Thank you!
+
+%%[cta-github-linkedin]
